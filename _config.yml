@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/blog"
 url: "https://choux1317.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
