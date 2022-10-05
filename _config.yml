@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/blog"
-url: "https://choux1317.github.io"
+baseurl: ""
+url: "https://choux1317.github.io/blog"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Choux's ML/AI Note                                 # site's title
