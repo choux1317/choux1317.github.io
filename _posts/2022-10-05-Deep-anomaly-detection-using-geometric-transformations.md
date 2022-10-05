@@ -5,7 +5,9 @@ tags: [AI, Anomaly Detection, Paper]
 ---
 
 **논문 제목: Deep anomaly detection using geometric transformations.**
+
 **논문 저자: (Golan, Izhak, and Ran El-Yaniv, Advances in neural information processing systems 31, 2018).**
+
 **논문 링크: https://arxiv.org/abs/1805.10917**
 
 
