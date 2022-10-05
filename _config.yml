@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://choux1317.github.io/blog"
+url: "https://choux1317.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Choux's ML/AI Note                                 # site's title
@@ -39,7 +39,7 @@ comments:
 
 # PAGINATION
 paginate: 5
-paginate_path: "/blog/page:num"
+paginate_path: "/page:num"
 
 # PORTFOLIO
 collections:
