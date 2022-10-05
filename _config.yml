@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: 머신러닝/인공지능 스터디 노트
 description: 꾸준하게 발전해보도록 노력해보자
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://choux1317.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
